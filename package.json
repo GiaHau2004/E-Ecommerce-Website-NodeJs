@@ -14,7 +14,8 @@
   "license": "ISC",
   "dependencies": {
     "compress": "^0.99.0",
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "mongoose": "^8.3.2"
   },
   "devDependencies": {
     "compression": "^1.7.4",
